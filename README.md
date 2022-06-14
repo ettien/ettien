@@ -13,8 +13,6 @@ I’m interested in :
 
 
 - 📫 How to reach me ..
-   [mail](kouaettien@gmail.com)
-   [linkedin]()
-
+   
 
 
