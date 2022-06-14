@@ -12,9 +12,9 @@ I’m interested in :
  I am using these  tools :
 
 
-- 📫 How to reach me ...
- [mail](kouaettien@gmail.com)
- [linkedin]()
+- 📫 How to reach me ..
+   [mail](kouaettien@gmail.com)
+   [linkedin]()
 
 
 
