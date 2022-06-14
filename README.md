@@ -1,4 +1,4 @@
-👋 Hey, I’m @ettien. Currently, I am  Phd  student  at the falcuty of  electrical  engineering  at  the  University  of  west  Bohemia in Czech Republic.
+👋 Hey, I’m @ettien. Currently, I am  Phd  student  at the Falcuty of  Electrical  Engineering  at  the  University  of  West  Bohemia in Czech Republic.
 
 I’m interested in :
 * Robotics
